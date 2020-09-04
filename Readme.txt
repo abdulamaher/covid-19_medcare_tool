@@ -1,1 +1,1 @@
-Uoft Covid Research Project
+MedCare tool created to determine the neccessity of virutal medicine and telehealth integration across all of the Public Health Units of Ontario. K means clustering ML algorithm was used in python on a variety of COVID-19 and socioeconomic related indicators obtained from Public Health Ontario.
